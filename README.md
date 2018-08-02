@@ -7,8 +7,8 @@ This repository may contain the begineer and practice codes of numpy,pandas,matp
 
 ## launch
 
-https://mybinder.org/v2/gh/harikrishnand/BinderRepo/master
+
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/harikrishnand/BinderRepo/master)
 
-.. image:: https://mybinder.org/badge.svg :target: https://mybinder.org/v2/gh/harikrishnand/BinderRepo/master
+
